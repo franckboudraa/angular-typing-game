@@ -2,6 +2,10 @@
 
 Demo app made to learn Angular.
 
+Learned in this project (non-exhaustive list) :
+- handling user input
+- conditional display
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
